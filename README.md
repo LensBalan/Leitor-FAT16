@@ -19,3 +19,5 @@ Programa implementado em C, 'lens_fat16.c'.
 
 - Linha 148 a 157, fórmulas comentadas que peguei do FAT OS Dev WIKI, porém não foram necessárias
 na execução final do programa.
+
+- Imagens de exemplo para utilização em 'Imagens FAT16.rar'.
